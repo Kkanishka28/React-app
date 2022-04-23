@@ -4,7 +4,8 @@ import './App.css';
 import Get from './Get';
 import Post from './Post';
 import Delete from './Delete';
-import Fill from './Fill';
+// import Fill from './Fill';
+import Update from './Update';
 // import {User} from './User';
 // import Class from './Class';
 // import State from './State';
@@ -176,7 +177,8 @@ function App(){
     {/* <Get/> */}
     <Post/>
     {/* <Delete/> */}
-    <Fill/>
+    {/* <Fill/> */}
+    <Update/>
     </div>
   )
 }
