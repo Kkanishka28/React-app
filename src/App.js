@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 // import  React ,{useEffect, useState} from 'react'
-import Get from './Get';
+// import Get from './Get';
 import Post from './Post';
 // import Delete from './Delete';
 // import Fill from './Fill';
