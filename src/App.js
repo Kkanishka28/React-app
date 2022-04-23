@@ -3,7 +3,7 @@ import './App.css';
 // import  React ,{useEffect, useState} from 'react'
 import Get from './Get';
 import Post from './Post';
-import Delete from './Delete';
+// import Delete from './Delete';
 // import Fill from './Fill';
 import Update from './Update';
 // import {User} from './User';
