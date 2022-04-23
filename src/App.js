@@ -178,7 +178,7 @@ function App(){
     <Post/>
     {/* <Delete/> */}
     {/* <Fill/> */}
-    <Update/>
+    {/* <Update/> */}
     </div>
   )
 }
